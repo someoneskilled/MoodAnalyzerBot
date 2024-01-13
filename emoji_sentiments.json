@@ -1,0 +1,19 @@
+{
+    "😀": "positive", "😃": "positive", "😄": "positive", "😁": "positive", "😆": "positive",
+    "😅": "positive", "🤣": "positive", "😂": "positive", "🙂": "positive", "🙃": "positive",
+    "😉": "positive", "😊": "positive", "😇": "positive", "🥰": "positive", "😍": "positive",
+    "🤩": "positive", "😘": "positive", "😗": "positive", "😚": "positive", "😙": "positive",
+    "😋": "positive", "😛": "positive", "😜": "positive", "🤪": "positive", "😝": "positive",
+    "😐": "neutral", "😑": "neutral", "😶": "neutral", "😏": "neutral", "😣": "neutral",
+    "😌": "neutral", "😔": "neutral", "😪": "neutral", "🤨": "neutral", "🧐": "neutral",
+    "😬": "neutral", "🤔": "neutral", "🤥": "neutral", "😳": "neutral", "😕": "neutral",
+    "🙁": "neutral", "☹️": "neutral", "😖": "neutral", "😓": "neutral", "😞": "neutral",
+    "😥": "negative", "😮": "negative", "😯": "negative", "😫": "negative", "😴": "negative",
+    "😷": "negative", "🤒": "negative", "🤕": "negative", "🤢": "negative",
+    "🤮": "negative", "🤧": "negative", "😲": "negative",  "😟": "negative",
+    "😤": "negative", "😨": "negative", "😩": "negative", "😰": "negative", 
+    "🥺": "negative", "😢": "negative", "😭": "negative", 
+    "😠": "negative", "🤬": "negative", "😡": "negative", "💔": "negative", "🚫": "negative",
+    "❌": "negative", "⛔": "negative", "🚷": "negative", "🔞": "negative", "📵": "negative"
+  }
+  
